@@ -8,15 +8,22 @@
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
     <script src="https://kit.fontawesome.com/58ee622733.js"></script>
+    <style type="text/css">
+    .center { text-align: center; }
+    .vtop { vertical-align: top !important; }
+    .vmid { vertical-align: middle !important; }
+    .vbot { vertical-align: bottom !important; }
+    </style>
 </head>
 <body class="bg-dark text-light text-center">
     <h1 class="text-primary mb-3 display-3">Online Brands</h1>
     <p class="lead mb-3">A compendium of popular online brands for your personal reasearch or investigation.</p>
-    <table class="table bg-light">
+    <table class="table bg-light text-left">
         <thead id="table-head">
             <tr>
                 <th>Icon</th>
                 <th>Name</th>
+                <th>Brand Color</th>
                 <th>Description</th>
             </tr>
         </thead>
@@ -33,9 +40,10 @@ $(document).ready(function() {
         let brand = brandList[key];
         $('#table-body').append(`
             <tr id="${key}">
-                <td><i class="fab fa-${brand.icon} fa-2x" style="color: ${brand.color}"></i></td>
-                <td><a href="${brand.link}" target="_blank">${brand.name}</a></td>
-                <td>${brand.description}</td>
+                <td class="center vtop"><i class="fab fa-${brand.icon} fa-4x" style="color: ${brand.color}"></i></td>
+                <td class="vmid"><a href="${brand.link}" target="_blank">${brand.name}</a></td>
+                <td class="vmid">${brand.color.toUpperCase()}</td>
+                <td class="vmid">${brand.description}</td>
             </tr>    
         `);
     })
