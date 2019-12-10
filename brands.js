@@ -1,7 +1,7 @@
 const brandList = {
     facebook: {
         name: 'Facebook',
-        description: 'Create an account or log into Facebook. Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.',
+        description: 'Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.',
         color: '#3b5998',
         icon: 'facebook-f',
         link: 'https://www.facebook.com'
@@ -57,7 +57,7 @@ const brandList = {
     },
     deviantart: {
         name: 'DeviantArt',
-        description: 'DeviantArt is the world\'s largest online social community for artists and art enthusiasts, allowing people to connect through the creation and sharing of art.',
+        description: 'The world\'s largest online social community for artists and art enthusiasts, allowing people to connect through the creation and sharing of art.',
         color: '#00e59b',
         icon: 'deviantart',
         link: 'https://www.deviantart.com'
@@ -131,5 +131,12 @@ const brandList = {
         color: '#4dabf7',
         icon: 'font-awesome',
         link: 'https://fontawesome.com'
+    },
+    bootstrap: {
+        name: 'Bootstrap',
+        description: 'Build responsive, mobile-first projects on the web with the world’s most popular front-end component library.',
+        color: '#7952b3',
+        icon: 'bootstrap',
+        link: 'https://getbootstrap.com'
     }
 }
