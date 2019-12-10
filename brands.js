@@ -117,5 +117,19 @@ const brandList = {
         color: '#f7991c',
         icon: 'audible',
         link: 'https://www.audible.com'
+    },
+    paypal: {
+        name: 'PayPal',
+        description: 'PayPal is the faster, safer way to send money, make an online payment, receive money or set up a merchant account.',
+        color: '#0079c1',
+        icon: 'paypal',
+        link: 'https://www.paypal.com'
+    },
+    fontawesome: {
+        name: 'FontAwesome',
+        description: 'Get vector icons and social logos on your website with Font Awesome, the web\'s most popular icon set and toolkit.',
+        color: '#4dabf7',
+        icon: 'font-awesome',
+        link: 'https://fontawesome.com'
     }
 }
