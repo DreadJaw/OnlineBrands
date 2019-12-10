@@ -334,5 +334,12 @@ const brandList = {
         color: '#0077b5',
         icon: 'linkedin',
         link: 'https://linkedin.com'
+    },
+    skype: {
+        name: 'Skype',
+        description: 'Stay in touch! Free online calls, messaging, affordable international calling to mobiles or landlines and Skype for Business for effective collaboration.',
+        color: '#00aff0',
+        icon: 'skype',
+        link: 'https://www.skype.com'
     }
 }
