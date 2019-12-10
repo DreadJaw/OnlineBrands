@@ -138,5 +138,40 @@ const brandList = {
         color: '#7952b3',
         icon: 'bootstrap',
         link: 'https://getbootstrap.com'
+    },
+    instagram: {
+        name: 'Instagram',
+        description: 'A simple, fun & creative way to capture, edit & share photos, videos & messages with friends & family.',
+        color: '#f77737',
+        icon: 'instagram',
+        link: 'https://www.instagram.com'
+    },
+    kickstarter: {
+        name: 'Kickstarter',
+        description: 'Kickstarter exists to help bring creative projects to life.',
+        color: '#2bde73',
+        icon: 'kickstarter-k',
+        link: 'https://www.kickstarter.com'
+    },
+    opera: {
+        name: 'Opera',
+        description: 'Opera\'s free VPN, Ad Blocker, integrated messengers and private mode help you browse securely and smoothly.',
+        color: '#cc0f16',
+        icon: 'opera',
+        link: 'https://www.opera.com'
+    },
+    firefox: {
+        name: 'Firefox',
+        description: 'Firefox is more than a browser.',
+        color: '#ff9500',
+        icon: 'firefox',
+        link: 'https://www.mozilla.org/en-US/firefox/'
+    },
+    chrome: {
+        name: 'Google Chrome',
+        description: 'A more simple, secure, and faster web browser than ever, with Google\'s smarts built-in.',
+        color: '#4285f4',
+        icon: 'chrome',
+        link: 'https://www.google.com/chrome/'
     }
 }
