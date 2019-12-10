@@ -37,7 +37,7 @@ const brandList = {
     google: {
         name: 'Google',
         description: 'Search the world\'s information, including webpages, images, videos and more.',
-        color: '#db4437',
+        color: '#ea4335',
         icon: 'google',
         link: 'https://google.com/'
     },
@@ -187,5 +187,40 @@ const brandList = {
         color: '#e53238',
         icon: 'ebay',
         link: 'https://www.ebay.com'
+    },
+    vk: {
+        name: 'VKontakte',
+        description: 'Установите официальное мобильное приложение ВКонтакте и оставайтесь в курсе новостей Ваших друзей, где бы Вы ни находились.',
+        color: '#45668e',
+        icon: 'vk',
+        link: 'https://vk.com'
+    },
+    yelp: {
+        name: 'Yelp',
+        description: 'Claim Your Free Business Page. It\'s Quick & Easy!',
+        color: '#af0606',
+        icon: 'yelp',
+        link: 'https://yelp.com'
+    },
+    yahoo: {
+        name: 'Yahoo',
+        description: 'News, email and search are just the beginning.',
+        color: '#410093',
+        icon: 'yahoo',
+        link: 'https://yahoo.com'
+    },
+    xbox: {
+        name: 'Xbox',
+        description: 'Experience the new generation of games and entertainment with Xbox.',
+        color: '#52b043',
+        icon: 'xbox',
+        link: 'https://www.xbox.com'
+    },
+    playstation: {
+        name: 'PlayStation',
+        description: 'Where the Greatest Play.',
+        color: '#003087',
+        icon: 'playstation',
+        link: 'https://www.playstation.com'
     }
 }
