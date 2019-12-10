@@ -167,11 +167,25 @@ const brandList = {
         icon: 'firefox',
         link: 'https://www.mozilla.org/en-US/firefox/'
     },
-    chrome: {
+    googlechrome: {
         name: 'Google Chrome',
         description: 'A more simple, secure, and faster web browser than ever, with Google\'s smarts built-in.',
         color: '#4285f4',
         icon: 'chrome',
         link: 'https://www.google.com/chrome/'
+    },
+    android: {
+        name: 'Android',
+        description: 'From phones and watches to cars and TVs, customise your digital life with Android.',
+        color: '#a4c639',
+        icon: 'android',
+        link: 'https://www.android.com'
+    },
+    ebay: {
+        name: 'eBay',
+        description: 'eBay is where the world goes to shop, sell, and give.',
+        color: '#e53238',
+        icon: 'ebay',
+        link: 'https://www.ebay.com'
     }
 }
