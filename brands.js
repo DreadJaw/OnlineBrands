@@ -306,5 +306,26 @@ const brandList = {
         color: '#6441a5',
         icon: 'twitch',
         link: 'https://www.twitch.tv'
+    },
+    microsoftedge: {
+        name: 'Microsoft Edge',
+        description: 'Explore the internet on Android & iOS on a safe browser that gives you longer battery life.',
+        color: '#0067b8',
+        icon: 'edge',
+        link: 'https://www.microsoft.com/en-us/windows/microsoft-edge'
+    },
+    slack: {
+        name: 'Slack',
+        description: 'Get more done with Slack: Real time messaging, file sharing and powerful search.',
+        color: '#6ecadc',
+        icon: 'slack',
+        link: 'https://www.slack.com'
+    },
+    trello: {
+        name: 'Trello',
+        description: 'Trello keeps track of everything, from the big picture to the minute details.',
+        color: '#0079bf',
+        icon: 'trello',
+        link: 'https://trello.com'
     }
 }
