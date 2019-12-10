@@ -243,5 +243,12 @@ const brandList = {
         color: '#0088cc',
         icon: 'telegram',
         link: 'https://telegram.org'
-    }
+    },
+    pinterest: {
+        name: 'Pinterest',
+        description: 'Discover recipes, home ideas, style inspiration and other ideas to try.',
+        color: '#bd081c',
+        icon: 'pinterest',
+        link: 'https://www.pinterest.com'
+    },
 }
