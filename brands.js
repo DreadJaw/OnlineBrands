@@ -68,5 +68,40 @@ const brandList = {
         color: '#f96854',
         icon: 'patreon',
         link: 'https://www.patreon.com'
+    },
+    snapchat: {
+        name: 'Snapchat',
+        description: 'Snapchat lets you easily talk with friends, view Live Stories from around the world, and explore news in Discover.',
+        color: '#fffc00',
+        icon: 'snapchat-square',
+        link: 'https://www.snapchat.com'
+    },
+    tumblr: {
+        name: 'Tumblr',
+        description: 'Tumblr is a place to express yourself, discover yourself, and bond over the stuff you love.',
+        color: '#34526f',
+        icon: 'tumblr',
+        link: 'https://www.tumblr.com'
+    },
+    youtube: {
+        name: 'YouTube',
+        description: 'Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.',
+        color: '#ff0000',
+        icon: 'youtube',
+        link: 'https://www.youtube.com'
+    },
+    wikipedia: {
+        name: 'Wikipedia',
+        description: 'Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.',
+        color: '#000000',
+        icon: 'wikipedia-w',
+        link: 'https://www.wikipedia.org'
+    },
+    vine: {
+        name: 'Vine',
+        description: 'The entertainment network where videos and personalities get really big, really fast.',
+        color: '#00cc99',
+        icon: 'vine',
+        link: 'https://vine.co'
     }
 }
