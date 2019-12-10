@@ -222,5 +222,26 @@ const brandList = {
         color: '#003087',
         icon: 'playstation',
         link: 'https://www.playstation.com'
+    },
+    soundcloud: {
+        name: 'Soundcloud',
+        description: 'Explore the largest community of artists, bands, podcasters and creators of music & audio.',
+        color: '#ff8800',
+        icon: 'soundcloud',
+        link: 'https://soundcloud.com'
+    },
+    spotify: {
+        name: 'Spotify',
+        description: 'Spotify is a digital music service that gives you access to millions of songs.',
+        color: '#1db954',
+        icon: 'spotify',
+        link: 'https://www.spotify.com'
+    },
+    telegram: {
+        name: 'Telegram',
+        description: 'Pure instant messaging — simple, fast, secure, and synced across all your devices.',
+        color: '#0088cc',
+        icon: 'telegram',
+        link: 'https://telegram.org'
     }
 }
