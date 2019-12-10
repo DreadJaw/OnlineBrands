@@ -103,5 +103,19 @@ const brandList = {
         color: '#00cc99',
         icon: 'vine',
         link: 'https://vine.co'
+    },
+    etsy: {
+        name: 'Etsy',
+        description: 'If it’s handcrafted, vintage, custom or unique, it’s on Etsy.',
+        color: '#d5641c',
+        icon: 'etsy',
+        link: 'https://www.etsy.com'
+    },
+    audible: {
+        name: 'Audible',
+        description: 'Listen to Best Sellers, Exclusive Originals, And More.',
+        color: '#f7991c',
+        icon: 'audible',
+        link: 'https://www.audible.com'
     }
 }
