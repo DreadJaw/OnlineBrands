@@ -327,5 +327,12 @@ const brandList = {
         color: '#0079bf',
         icon: 'trello',
         link: 'https://trello.com'
+    },
+    linkedin: {
+        name: 'LinkedIn',
+        description: 'Build and engage with your professional network.',
+        color: '#0077b5',
+        icon: 'linkedin',
+        link: 'https://linkedin.com'
     }
 }
