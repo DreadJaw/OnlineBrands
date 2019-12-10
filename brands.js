@@ -251,4 +251,60 @@ const brandList = {
         icon: 'pinterest',
         link: 'https://www.pinterest.com'
     },
+    stackoverflow: {
+        name: 'Stack Overflow',
+        description: 'The largest, most trusted online community for developers to learn, share​ ​their programming ​knowledge, and build their careers.',
+        color: '#f48024',
+        icon: 'stack-overflow',
+        link: 'https://stackoverflow.com'
+    },
+    whatsapp: {
+        name: 'WhatsApp',
+        description: 'With WhatsApp, you\'ll get fast, simple, secure messaging and calling for free, available on phones all over the world.',
+        color: '#25d366',
+        icon: 'whatsapp',
+        link: 'https://www.whatsapp.com'
+    },
+    imdb: {
+        name: 'IMDb',
+        description: 'IMDb is the world\'s most popular and authoritative source for movie, TV and celebrity content.',
+        color: '#f5de50',
+        icon: 'imdb',
+        link: 'https://www.imdb.com'
+    },
+    dropbox: {
+        name: 'Dropbox',
+        description: 'Bring your files and cloud content together with the tools your team wants to use.',
+        color: '#007ee5',
+        icon: 'dropbox',
+        link: 'https://www.dropbox.com'
+    },
+    steam: {
+        name: 'Steam',
+        description: 'Steam is the ultimate destination for playing, discussing, and creating games.',
+        color: '#00adee',
+        icon: 'steam',
+        link: 'https://store.steampowered.com'
+    },
+    battlenet: {
+        name: 'Battle.net',
+        description: 'Your gateway to all things Blizzard.',
+        color: '#0e86ca',
+        icon: 'battle-net',
+        link: 'https://battle.net'
+    },
+    itchio: {
+        name: 'itch.io',
+        description: 'itch.io is a simple way to find and share indie games online for free.',
+        color: '#da2c49',
+        icon: 'itch-io',
+        link: 'https://itch.io'
+    },
+    twitch: {
+        name: 'Twitch',
+        description: 'Twitch is the world\'s leading live streaming platform for gamers and the things we love.',
+        color: '#6441a5',
+        icon: 'twitch',
+        link: 'https://www.twitch.tv'
+    }
 }
